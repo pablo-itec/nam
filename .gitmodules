@@ -1,0 +1,3 @@
+[submodule "mvs-vbx/mvs-vbx/nam"]
+	path = mvs-vbx/mvs-vbx/nam
+	url = git@github.com:pablo-itec/nam.git
